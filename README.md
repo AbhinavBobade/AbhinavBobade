@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhinavBobade
-- 👀 I’m interested in Full Stack Developer.
-- 🌱 I’m currently learning Angular and React.
+- 👀 I’m interested in Full Stack Java Developer.
+- 🌱 I’m currently learning ReactJs.
 - 💞️ I’m looking to collaborate on Open Source.
 - 📫 How to reach me ...
 
